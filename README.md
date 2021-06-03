@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <a href="mailto:info@thecatcloud.de">
+    <img src="https://img.shields.io/badge/info@thecatcloud.de-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+</p>
 
-<!--
-**KatzeMau/KatzeMau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/KatzeMau">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KatzeMau&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/KatzeMau">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatzeMau&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</a>
